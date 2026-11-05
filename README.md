@@ -1,6 +1,10 @@
 # DevOps Lab 2 — Containerization & Kubernetes Orchestration
 
 This repository contains the implementation, documentation, commands, and execution evidence for **Lab 2: Containerization & Kubernetes Orchestration**.
+**Course:** DevOps and Automation Lab
+**Student:** Tanvi Basist
+**GitHub:** Tanvi20045
+**Repository:** DevOps-Lab-2
 
 The lab demonstrates Docker containerization and lifecycle management, Docker Hub image publishing, Docker Compose, persistent storage, Docker networking, Kubernetes deployment with Minikube, scaling, rolling updates, rollback, and Jenkins-based continuous deployment.
 
@@ -57,7 +61,7 @@ Application Source
       v
     Docker
       |
-      +--> Docker Hub: axdy02/devops-lab2:v1 / v2
+      +--> Docker Hub: https://hub.docker.com/r/axdy02/devops-lab2 (v1 / v2)
       |
       v
 GitHub Repository
